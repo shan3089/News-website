@@ -1,5 +1,9 @@
-How to run the News Portal Project using PHP and MySql
+# News Website using PHP
 
+- I have created this website as a project given in Lovely Prfesional university.
+
+- How to run the News Portal Project using PHP and MySql
+```
 1. Download the the zip file
 2. Extract the file and copy newsportal folder
 3.Paste inside root directory(for xampp xamp/htdocs, for wampp/www,fpr lamp var/www/html)
@@ -15,3 +19,4 @@ Password : Test@123
 credential for Sub-admin panel :
 username: subadmin
 Password : Test@123
+```
