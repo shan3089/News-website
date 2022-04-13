@@ -1,6 +1,8 @@
 # News Website using PHP
 
-- I have created this website as a project given in Lovely Prfesional university.
+```
+I have created this website as a project given in Lovely Prfesional university.
+```
 
 - How to run the News Portal Project using PHP and MySql
 ```
